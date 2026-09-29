@@ -13,10 +13,10 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shichao Li"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://mor410.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://Lsc-410.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Mor410/Mor410.github.io"
+repository               : "Lsc-410/Lsc-410.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,9 +24,9 @@ repository               : "Mor410/Mor410.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Shichao Li"
+  name             : "黎奭超"
   pronouns         : # example: "she/her"  
-  bio              : "Freshman at USTC"
+  bio              : "中国科学技术大学26级本科生"
   location         : 
   employer         : "USTC"
   uri              : # URL
@@ -71,7 +71,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "Morph_410"
+  steam            : 
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
